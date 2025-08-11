@@ -89,7 +89,7 @@ The work follows a **full data science pipeline**:
 ## 📌 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/BankChurnPrediction.git
+git clone https://github.com/IlyesGhorbel/BankChurnPrediction.git
 
 # Install dependencies
 pip install -r requirements.txt
